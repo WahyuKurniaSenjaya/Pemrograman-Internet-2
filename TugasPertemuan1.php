@@ -52,7 +52,7 @@ class laptopgaming extends laptop
     }
 }
 
-class netboook extends laptop
+class notebook extends laptop
 {
     public function getInfolaptop()
     {
